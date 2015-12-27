@@ -18,11 +18,8 @@ compressed](https://github.com/wooorm/remark-toc/releases).
 ## Table of Contents
 
 *   [Usage](#usage)
-
 *   [API](#api)
-
     *   [remark.use(toc, options)](#remarkusetoc-options)
-
 *   [License](#license)
 
 ## Usage
